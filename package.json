@@ -1,5 +1,5 @@
 {
-	"name": "@kit10/ejs",
+	"name": "@kit10/plugin-ejs",
 	"version": "0.1.0-dev",
 	"description": "",
 	"publishConfig": {
@@ -19,7 +19,7 @@
 		"ejs": "3.1.10"
 	},
 	"peerDependencies": {
-		"kit10": "file:../kit10/pack-1781304474239.tar.gz"
+		"kit10": "github:kit10hq/kit10#14d861137e3e982e86083a931cddd953532a43c5"
 	},
 	"devDependencies": {
 		"@biomejs/biome": "2.4.10",
@@ -46,17 +46,17 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/kit10hq/ejs.git"
+		"url": "git+https://github.com/kit10hq/plugin-ejs.git"
 	},
 	"keywords": [
 		"kit10",
-		"vite",
+		"kit10-plugin",
 		"ejs"
 	],
 	"author": "Daniil Kirichenko (https://twitter.com/kirickme)",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/kit10hq/ejs/issues"
+		"url": "https://github.com/kit10hq/plugin-ejs/issues"
 	},
-	"homepage": "https://github.com/kit10hq/ejs#readme"
+	"homepage": "https://github.com/kit10hq/plugin-ejs#readme"
 }
